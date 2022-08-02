@@ -16,3 +16,23 @@ erased the example from my memory
 - it works by an association i guess —like you know `'do not repeat
 learned material before the exam'` rule (i always forgot verses if
 breaking this rule while studied in high school)
+#### ~ok~ After recovering from memory failure and subsequent shock
+here is `example 1 v.2`
+- i can read
+- i can recognize images
+- but i am `3d‐blind`
+- so if use something like android with task list of Kit Kat style or
+alike `i cannot choose application ESPECIALLY after stupidly introduced
+reordering` because of my failure with ~letters and all other shapes~
+- and so i use `colors only` in physical reality for spatial orientation
+- and IT DOES WORK for me in virtual reality! (apps, interfaces etc)
+- what does happen if a snapshot is blank or black after OS was not
+in time with making task list?
+`i fail FOR SURE!`
+- what does happen if there are several identical white/black/etc
+backgrounds with some indistinctive patterns on them (letters/dwarves/organs/etc)?
+`i fail FOR SURE!`
+##### example 1 v.2
+`being a programmer i may not request for following interface or even
+consider implementing it —but I WOULD NOT FAIL WITH IT EVER —plain
+placeholders COLORED DISTINCTIVELY for representing apps in a task list`
