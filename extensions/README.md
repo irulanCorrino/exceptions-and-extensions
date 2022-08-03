@@ -12,7 +12,7 @@
 #### here is the inventory
 - recently i have had serious issue: i am sick...
 - i was eating pickled chilies in INSANE amounts for a month long at least [knowingly] breaking tolerance at times and it is JUST ONE of many such scuba‑diving eating cycles!
-- now i have a withdrowal symptomes and they are SEVERE —both to a salt and to a capsaicin
+- now i have a withdrawal symptoms and they are SEVERE —both to a salt and to a capsaicin
 - next item —vitamin D3 ...i was deprived [poverty[^1], you know] of suppements other than thiamine + multi‑B & iron + vitamin C; so after having bought all the stuff i need to save the life of my beloved first bass [`skwoh`] i have visited a drug store —i have spent AN EIGHTHS of my income
 - i was taking it [D3] for Twelve Days in daily dosage 4 * 500 [some standard unit] —some vegetarian spray made in russia
 - CERTAINLY i am feeling badly now
