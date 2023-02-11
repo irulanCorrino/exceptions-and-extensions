@@ -7,7 +7,7 @@
 - i was denied from a singing already but they could not forbid listening music to me even though had forbidden to use their vinyl disk player and cassete recorder during the time they were not at home
 - their friends from next floor were parents of my friend Timmo and they oftenly exchanged with books and disks and shared leisure time discussing social topics or playing poker games or just eating barbeques outside
 - those people from next floor were somewhat more rich and more skilled in getting rare appliances or media
-- they had somehow obtained a disk printed Great Britain. it was a contemporary folk songs recording
+- they had somehow obtained a disk printed in Great Britain. it was a contemporary folk songs recording
 ## this recording was one of my favorite learning pieces
 - i listened J. S. Bach’s recording then for some time already and then i had fallen in love with Sting’s soul music (given by the same neighbours skilled in getting rare stuff) —together with this recording is a subject of this note [`extension`] all three vinyl disks have shaped my musical taste and style
 - certainly there were other musicians that influenced me and me myself was already developing my own musical style [using my imagination and singing whatever i wanted to]
