@@ -18,3 +18,14 @@
 - it is verbose
 - it is limiting to a speaker
 - it is unusable for education
+## Language Of Science, The
+- Astrology
+- Sexology
+- Sociology [is it really necessary?]
+- Psycopathology ...umm Psychology [is it approprite to do? see below]
+- Theology [[!!!] reportedly, God has graciously allowed her clerical worshippers to study her]
+- Demonology [i should have begun with this, but ...come on, it is too many sciences already!]
+
+
+
+
