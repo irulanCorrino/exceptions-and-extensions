@@ -25,7 +25,13 @@
 - Psycopathology ...umm Psychology [is it approprite to do? see below]
 - Theology [[!!!] reportedly, God has graciously allowed her clerical worshippers to study her]
 - Demonology [i should have begun with this, but ...come on, it is too many sciences already!]
-
-
-
+## Rust [neither 'cannot use' nor 'dislike']
+- i like Rust. i really do
+  - but here is the thing that puts me off:
+    - HYPE
+- if you want to learn as quickly as possible you would be better with C
+- if you want readability AND maintainability you would be better if learning C
+- if you DO NOT WANT to unadvertenly turn into AN OUTSIDER than you should learn C
+- if you want A PROGRAMMING LANGUAGE as primary means for your coding than you need to prefer C
+- we all make mistakes. we really do. a programmer MAY NOT DO
 
