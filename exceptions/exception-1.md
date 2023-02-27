@@ -58,7 +58,7 @@
   those workstations; they noted the difficulty and responsibility  
   of designing high availability industrial software system, recalled  
   hard bug management and a fragile complicated system solving those  
-  problems ...they were looking at me as i was a schoolgirl outsider
+  problems ...they were looking at me as if i was a schoolgirl outsider
 [^2]: Мне снился генерал Скобелев,  
   Только что попавший в тюрьму.  
   Мне снилось, что он говорит с водой,  
