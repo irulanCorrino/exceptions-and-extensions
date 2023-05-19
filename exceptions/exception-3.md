@@ -216,7 +216,7 @@ on sight; the seeing is much closer to the hearing'
 ### <div align="center">very differences between us</div>
 <img align="right" width="16%" alt="blaire-white" title="Blaire White, the imposter of a transgender person" src="https://user-images.githubusercontent.com/98284211/224619343-81111114-0645-4d6d-af62-f33f191806ee.jpg">
 
-- unlike a clitoris of human female an agn[^6] of a gethenian is a retractable tube-like organ with a length of about 12cm when
+- unlike a clitoris of human female an agn[^6] of a gethenian is a retractable tube-like organ with a length of about 12cm [sic[^7]] when
 it is visible in her aroused state during kemmer.
 - and unlike a penis of human male an agn has the density of neurons similar to that of a clitoris of human female.
 - unlike human females the gethenians do not have the hymen
@@ -260,5 +260,5 @@ and in the last case there are two equally possible chances of me being with XX 
 (but counted all together those three cases do not make 50+25+25 probability --they make 50+50)
 [^5]: a seer or a seeing
 [^6]: clitopenis
-
+[^7]: i was wrong with this passage --at the moment of writing it i was too lazy and has not measured my penis's erected size. i mean i was not aroused enough to perform a reliable measurement and even skipped the whole procedure: '[the procedure of measuring erect lengths is performed] by pushing the pre-pubic fat pad to the bone, and [...] erect girth (circumference) was measured at the base or mid-shaft of the penis', [wikipedia says](https://en.wikipedia.org/wiki/Human_penis_size#Studies). now i should tell that every reborn woman would be reborn with her exact physical appearance, except a few features are to be a novelty of our engineered native species and except a healing of existing issues, if any is present, like an aromatase deficiency or obesity or even cases of a soul's skin color not matching to that of her physical body. so for making the prediction of proportions of our retractable reproductive organ i may use only the data available to me by observing myself. if you are interested in learning about my overall bodily dimensions and my considerations about my deviation from human species normal male appearance, please follow next link. [my penis' erect length is 18.3cm and erect circumference is 13.3cm](https://github.com/irulanCorrino/exceptions-and-extensions/blob/main/exceptions/exception-5.md)
 
