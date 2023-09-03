@@ -25,7 +25,7 @@
 - Psycopathology ...umm Psychology [is it approprite to do? see below]
 - Theology [[!!!] reportedly, God has graciously allowed her clerical worshippers to study her]
 - Demonology [i should have begun with this, but ...come on, it is too many sciences already!]
-## Rust [neither 'cannot use' nor 'dislike']
+## Rust <del>[neither 'cannot use' nor 'dislike']</del>
 - i like Rust. i really[^1] do
   - but here is the thing that puts me off:
     - HYPE
@@ -34,6 +34,8 @@
 - if you DO NOT WANT to unadvertenly turn into AN OUTSIDER than you should learn C
 - if you want A PROGRAMMING LANGUAGE as primary means for your coding than you need to prefer C
 - we all make mistakes. we really do. a programmer MAY NOT DO
+  - UPDATE [seven months later, after getting closer to real‑world Rust]: `Rust is the new Java` —first they were obssessed with getting machine‑independent, with the new fad now they are totally mentally safe
+  - why? those people behind Rust or Java —<ins>they are against open source software development</ins>, not just language creators —users are thirsty for money
 ## :woman_technologist: :love_letter: A language of communist brainwreck from covert social agents
 |________________________________________|________________________________________|________________________________________|________________________________________|________________________________________________________|
 | -------------------------- | -------------------------- | -------------------------- | -------------------------- | ------------------------------------------------------------ |
